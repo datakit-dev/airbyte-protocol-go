@@ -1,7 +1,7 @@
 # Airbyte Protocol Go Types
 
-[![GitHub tag](https://img.shields.io/github/tag/datakit-dev/airbyte-protocol-go.svg)]
-[![License](https://img.shields.io/github/license/datakit-dev/airbyte-protocol-go.svg)]
+![GitHub tag](https://img.shields.io/github/tag/datakit-dev/airbyte-protocol-go.svg)
+![License](https://img.shields.io/github/license/datakit-dev/airbyte-protocol-go.svg)
 
 This module, `github.com/datakit-dev/airbyte-protocol-go`, provides comprehensive Go types for the entire Airbyte Protocol, auto-generated from the official JSON Schema. With this, Go developers can seamlessly interact with the Airbyte Protocol without having to worry about type mismatches or manual conversions.
 
